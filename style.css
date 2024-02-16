@@ -1,0 +1,39 @@
+.container>h1{
+    margin-left: 50px;
+}
+
+.navbar-collapse{
+    margin-left: 60%;
+}
+.nav-item>img{
+    margin-left: 70%;
+}
+
+
+#parant_1{
+    display: flex;
+    margin-top: 120px;
+
+
+}
+#parant_1>child_1{
+    height:400px;
+    width: 50%;
+
+}
+#parant_1>child_2{
+    height:400px;
+    width: 50%;
+  
+}
+
+#parant_2{
+   margin-top:200px; 
+}
+
+.parant_3{
+    text-align: center;
+    margin-top: 200px;
+}
+
+
